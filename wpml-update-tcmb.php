@@ -47,8 +47,8 @@ function get_tcmb()
         {		
           update_exchange_rates($key_currency, $rate);
         }
-      }
     }
+  }
 
     //if(isset($rates))
     //{	
